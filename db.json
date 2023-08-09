@@ -4,6 +4,11 @@
       "nombre": "Luis Rodriguez",
       "email": "luisda@alura.com",
       "id": 1
+    },
+    {
+      "nombre": "Juan David Arias Perez",
+      "email": "luisldra1011@gmail.com",
+      "id": "95ea5f34-4db2-4cd0-abf0-a36b6d6db7e1"
     }
   ]
 }
